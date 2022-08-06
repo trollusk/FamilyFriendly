@@ -1,0 +1,16 @@
+{
+	"name": "FamilyFriendly",
+	"description": "This is an attempt to make the game more suitable for younger teens, by patching out or altering some some inappropriate stuff. It is not perfect, and I am not responsible for any harm you may cause to your child by letting them play an 18+ game.\n\nCharacter creation:\n\n[list]\n[*]No sliders for breasts or male \"endowment\" in character creation.\n[*]No nudity level selection in character creation.\n[*]No random crime list at the end of character creation.\n[*]The \"evil\" religions are unavailable at character creation (Set, Derketo, Yog, Zath), and are not taught by any NPCs.\n[/list]\n\nGore and cannibalism:\n\n[list]\n[*]When players and human NPCs die, instead of creating a corpse they disappear in a puff of purple smoke and drop a loot bag.\n[*]Players cannot harvest human flesh or body parts from human corpses.\n[*]For Ymir, Mitra and Jhebbal Sag, no longer get religious \"essences\" from human corpses. Instead the source varies per religion:\n[list]\n[*][b]Ymir[/b]: ice and black ice resource nodes, and corpses of ice rocknoses, frost giants and yeti.\n[*][b]Mitra[/b]: corpses of undead.\n[*][b]Jhebbal Sag[/b]: corpses of powerful predators (eg tigers, lions, wolves, bears) and werecreatures.\n[/list]\n[/list]\n\nOther:\n\n[list]\n[*]Cannot learn feats or recipes for wheel of pain or other slavery-related items.\n[*]For some overly revealing pieces of female chest armour, switched the models so they have the same appearance as other less revealing ones.\n[*]Removed swear words and sexual content from item descriptions and NPC dialogue texts. (English only). The associated sound files have been replaced with silence.\n[*]Alcoholic beverages no longer cause drunkenness.\n[/list]\n\nThings I have not changed:\n[list]\n[*]Gore, dismemberment and decapitation - there are already mods for this.\n[*]A less evil alternative method of recruiting thralls.\n[/list]\n",
+	"changeNote": "Redid some of the data table edits to use merges, rather than overwriting base game datatables.\nPrevent NPCs from teaching the evil religions.\nHopefully fix the \"boob\" slider issue.\nRemove some cannibalistic recipes.\n",
+	"author": "trollusk",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 5,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2842259371",
+	"steamVisibility": 1,
+	"folderName": "FamilyFriendly",
+	"revisionNumber": 348928,
+	"snapshotId": 32447
+}
