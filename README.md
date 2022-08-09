@@ -35,9 +35,15 @@ The features of the mod are listed below.
   * **Mitra**: corpses of undead.
   * **Jhebbal Sag**: corpses of powerful predators (eg tigers, lions, wolves, bears) and werecreatures.
 
-### Other in-game effects:
+### Thralls and slavery:
 
 * Cannot learn feats or recipes for wheel of pain or other slavery-related items.
+* Human NPCs with non-combat professions (blacksmiths, cooks, dancers etc) will never engage in combat.
+* These NPCs can be picked up by the player, and will turn into thrall items in the player's inventory, the same as if that NPC had been broken on the wheel of pain. These thrall items can then be placed in the world or in crafting tables, as usual.
+* The following NPCs are excluded from this mechanic: fighters, archers, taskmasters, priests of evil religions, and all NPCs that spawn during surges.
+
+### Other in-game effects:
+
 * The "evil" religions are not taught by any NPCs.
 * For some overly revealing pieces of female chest armour, switched the models so they have the same appearance as other less revealing ones.
 * Removed swear words and sexual content from item descriptions and NPC dialogue texts. (English only). The associated sound files have been replaced with silence.
@@ -48,6 +54,3 @@ The features of the mod are listed below.
 * Gore, dismemberment and decapitation - there are already mods for this, such as "Dismember Me Not".
 * There is an upcoming major game patch (3.0) which will introduce Sorcery into the game. This will introduce more adult content such as human sacrifice. 
   The mod currently does not address Sorcery changes in any way.
-* A less evil alternative method of recruiting thralls. Isle of Siptah has captive thralls who you can free from cages, but unfortunately Funcom has not 
-  made this system accessible in the Devkit. You can still recruit thralls by rescuing them if you play the Isle of Siptah DLC with this mod.
-  
